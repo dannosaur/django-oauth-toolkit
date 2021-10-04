@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Security
   -->
 
-## [unreleased]
+## [1.5.1]
 * Remove support for Django 3.0
 * Add support for Django 3.2
 * #989 Change any HttpResponse to JsonResponse if possible
